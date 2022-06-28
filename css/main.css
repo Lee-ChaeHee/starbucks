@@ -353,6 +353,7 @@ header .badges .badge {
 .notice .notice-line .inner .inner__left .swiper-container {
   height: 62px;
   flex-grow: 1;
+  overflow: hidden;
 }
 .notice .notice-line .inner .inner__left .swiper-slide {
   height: 62px;
